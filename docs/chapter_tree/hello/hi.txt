@@ -4,12 +4,12 @@
 139.162.84.132:18836#HK 03
 202.141.163.4:44331#HK 04
 
-cf.090227.xyz:2083#自适应 01
-cf.877774.xyz:2087#自适应 02
-cmcc.090227.xyz:443#移动 01
-time.is:8443#移动 02
-mfa.gov.ua:2096#电信 01
-www.shopify.com#shopify官方优选
+cf.090227.xyz:2083#TG自适应 01
+cf.877774.xyz:2087#TG自适应 02
+cmcc.090227.xyz:443#TG移动 01
+time.is:8443#TG移动 02
+mfa.gov.ua:2096#TG电信 01
+www.shopify.com#TG shopify
 
 210.61.97.241:81#TW 01
 103.116.7.220:2096#TW 02
