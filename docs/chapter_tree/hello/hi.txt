@@ -21,6 +21,9 @@ cmcc.090227.xyz:443#TG移动 01
 time.is:8443#TG移动 02
 mfa.gov.ua:2096#TG电信 01
 www.shopify.com#TG shopify
+openai.com:2095#openai
+www.npmjs.com:2095#npmjs
+www.fbi.gov:2095#fbi
 
 103.56.60.156:6070#中国 01
 
