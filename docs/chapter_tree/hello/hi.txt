@@ -31,10 +31,10 @@ www.shopify.com#TG shopify
 openai.com:2095#TG openai
 www.npmjs.com:2095#TG npmjs
 cmcc.090227.xyz:443#TG移动 01
-time.is:8443#TG移动 02
-mfa.gov.ua:2096#TG电信 01
-cf.090227.xyz:2083#TG自适应 01
-cf.877774.xyz:2087#TG自适应 02
+time.is:8443#TG 移动 02
+mfa.gov.ua:2096#TG 电信 01
+cf.090227.xyz:2083#TG 自适应 01
+cf.877774.xyz:2087#TG 自适应 02
 
 82.152.90.44:51010#台湾 01
 103.137.63.205:31564#台湾 02
