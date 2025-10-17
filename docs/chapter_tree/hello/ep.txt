@@ -25,5 +25,4 @@ saas.sin.fan#TG saas.sin.fan
 mfa.gov.ua#TG 乌克兰外交部
 store.ubi.com#TG Ubisoft
 staticdelivery.nexusmods.com#TG NexusMods
-tencentapp.cn#TG ktff维护
-cloudflare-dl.byoip.top#TG byoip
+
